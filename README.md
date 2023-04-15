@@ -6,12 +6,12 @@
 ## Table of Contents
 
 + [Getting Started](https://github.com/KavinduPiyumantha/Leetcode-Solutions#getting-started)
-+ Dependencies
-+ Running the Code
-+ Solution Examples
-+ External Resources
-+ LeetCode Profile
-+ Conclusion
++ [Dependencies](https://github.com/KavinduPiyumantha/Leetcode-Solutions#dependencies)
++ [Running the Code](https://github.com/KavinduPiyumantha/Leetcode-Solutions#running-the-code)
++ [Solution Examples](https://github.com/KavinduPiyumantha/Leetcode-Solutions#solution-examples)
++ [External Resources](https://github.com/KavinduPiyumantha/Leetcode-Solutions#external-resources)
++ [LeetCode Profile](https://github.com/KavinduPiyumantha/Leetcode-Solutions#leetcode-profile)
++ [Conclusion](https://github.com/KavinduPiyumantha/Leetcode-Solutions#conclusion)
 
 ## Getting Started
 
