@@ -30,7 +30,6 @@ Here are a few examples of my solutions to LeetCode problems:
 
 ### Two Sum
 python 3
-towsum code ss.png
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
 
