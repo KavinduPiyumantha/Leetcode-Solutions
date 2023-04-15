@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-+ Getting Started
++ [Getting Started](https://github.com/KavinduPiyumantha/Leetcode-Solutions#getting-started)
 + Dependencies
 + Running the Code
 + Solution Examples
