@@ -29,16 +29,17 @@ To run the code in this repository, simply clone the repository to your local ma
 Here are a few examples of my solutions to LeetCode problems:
 
 ### Two Sum
-python 3
+```python 3
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+    
         for i in range(len(nums)):
             for j in range((i+1),len(nums)):
                 if((nums[i]+ nums[j]) == target):   
                     return [i,j]
         return []
-
+```
 ## External Resources
 
 I used a variety of external resources to help me solve problems on LeetCode, including:
